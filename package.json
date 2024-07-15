@@ -1,0 +1,26 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanikaigv/NodeJs.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Tanikai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanikaigv/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Tanikaigv/NodeJs#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
